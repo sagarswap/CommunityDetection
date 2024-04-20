@@ -1,0 +1,15 @@
+1 COVID-19
+2 HCoV-229E
+3 HCoV-HKU1
+4 HCoV-NL63
+5 HCoV-OC43
+6 SARS
+7 MERS
+8 Lassa
+9 Victoria
+10 Yamagata
+11 Ebola
+12 Dengue 
+13 Rhinolophines
+14 PangolinHost
+15 Environment
